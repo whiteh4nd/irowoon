@@ -1,0 +1,99 @@
+@font-face {
+    font-family: '나눔스퀘어';
+    font-style: normal;
+    font-weight: 300;
+    src: url(//img.compa.kr/_fonts/NanumSquareL.eot);
+    src: url(//img.compa.kr/_fonts/NanumSquareL.eot?#iefix) format('embedded-opentype'),
+         url(//img.compa.kr/_fonts/NanumSquareL.woff) format('woff'),
+         url(//img.compa.kr/_fonts/NanumSquareL.ttf) format('truetype');
+  }
+  @font-face {
+    font-family: '나눔스퀘어';
+    font-style: normal;
+    font-weight: 400;
+    src: url(//img.compa.kr/_fonts/NanumSquareR.eot);
+    src: url(//img.compa.kr/_fonts/NanumSquareR.eot?#iefix) format('embedded-opentype'),
+         url(//img.compa.kr/_fonts/NanumSquareR.woff) format('woff'),
+         url(//img.compa.kr/_fonts/NanumSquareR.ttf) format('truetype');
+  }
+  @font-face {
+    font-family: '나눔스퀘어';
+    font-style: normal;
+    font-weight: 700;
+    src: url(//img.compa.kr/_fonts/NanumSquareB.eot);
+    src: url(//img.compa.kr/_fonts/NanumSquareB.eot?#iefix) format('embedded-opentype'),
+         url(//img.compa.kr/_fonts/NanumSquareB.woff) format('woff'),
+         url(//img.compa.kr/_fonts/NanumSquareB.ttf) format('truetype');
+  }
+  @font-face {
+    font-family: '나눔스퀘어';
+    font-style: normal;
+    font-weight: 800;
+    src: url(//img.compa.kr/_fonts/NanumSquareEB.eot);
+    src: url(//img.compa.kr/_fonts/NanumSquareEB.eot?#iefix) format('embedded-opentype'),
+         url(//img.compa.kr/_fonts/NanumSquareEB.woff) format('woff'),
+         url(//img.compa.kr/_fonts/NanumSquareEB.ttf) format('truetype');
+  }
+  
+  @font-face {
+    font-family: 'NanumSquare';
+    font-style: normal;
+    font-weight: 300;
+    src: url(//img.compa.kr/_fonts/NanumSquareL.eot);
+    src: url(//img.compa.kr/_fonts/NanumSquareL.eot?#iefix) format('embedded-opentype'),
+         url(//img.compa.kr/_fonts/NanumSquareL.woff) format('woff'),
+         url(//img.compa.kr/_fonts/NanumSquareL.ttf) format('truetype');
+  }
+  @font-face {
+    font-family: 'NanumSquare';
+    font-style: normal;
+    font-weight: 400;
+    src: url(//img.compa.kr/_fonts/NanumSquareR.eot);
+    src: url(//img.compa.kr/_fonts/NanumSquareR.eot?#iefix) format('embedded-opentype'),
+         url(//img.compa.kr/_fonts/NanumSquareR.woff) format('woff'),
+         url(//img.compa.kr/_fonts/NanumSquareR.ttf) format('truetype');
+  }
+  @font-face {
+    font-family: 'NanumSquare';
+    font-style: normal;
+    font-weight: 700;
+    src: url(//img.compa.kr/_fonts/NanumSquareB.eot);
+    src: url(//img.compa.kr/_fonts/NanumSquareB.eot?#iefix) format('embedded-opentype'),
+         url(//img.compa.kr/_fonts/NanumSquareB.woff) format('woff'),
+         url(//img.compa.kr/_fonts/NanumSquareB.ttf) format('truetype');
+  }
+  @font-face {
+    font-family: 'NanumSquare';
+    font-style: normal;
+    font-weight: 800;
+    src: url(//img.compa.kr/_fonts/NanumSquareEB.eot);
+    src: url(//img.compa.kr/_fonts/NanumSquareEB.eot?#iefix) format('embedded-opentype'),
+         url(//img.compa.kr/_fonts/NanumSquareEB.woff) format('woff'),
+         url(//img.compa.kr/_fonts/NanumSquareEB.ttf) format('truetype');
+  }
+
+  
+/*RESET CSS*/
+
+*{margin:0; padding:0;}
+
+ol,ul,li{list-style:none; padding:0;}
+img,fieldset {border: 0 none;}
+input, select, textarea {vertical-align: middle; resize: none; position: relative;}
+a {outline: none; text-decoration: none; color:inherit;}
+
+input,textarea {-webkit-appearance:none; -webkit-border-radius:0;}
+input[type="checkbox"] {-webkit-appearance:checkbox;}
+input[type="radio"] {-webkit-appearance:radio; -webkit-border-radius:10px;}
+button{border: 0 none; background:transparent; cursor: pointer;}
+
+legend, .hide{width:0; height:0; visibility: hidden; font-size: 0; line-height: 0; position: absolute; top:0; left:0; overflow:hidden;}
+table caption{width:0; height:0; visibility: hidden; text-indent: -999px; font-size: 0; line-height: 0;}
+table{border-collapse: collapse; border-spacing: 0;}
+header,footer,section,article,aside,nav,hgroup,details,menu,figure,figcaption{display: block;}
+
+body,input,select, button,textarea, h1,h2,h3,h4,h5,h6, table, div,p
+{font-family: 'NanumSquare', sans-serif; letter-spacing: -0.025em;}
+
+
+
